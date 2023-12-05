@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on dongyangmeray University
+- 🔭 I’m currently working on dongyang University
 
 - 🌱 I am currently learning code to develop artificial intelligence technology
 
