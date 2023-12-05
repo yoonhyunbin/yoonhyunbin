@@ -30,9 +30,7 @@
 
 - 🌱 I am currently learning code to develop artificial intelligence technology
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- ☁️ I am interested in artificial intelligence, so I am learning about **Python**.
 
 - 📫 Feel free to reach me out **yhb66903710@gmail.com**
 <!--Intro end-->
