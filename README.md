@@ -35,7 +35,7 @@
 - 📫 Feel free to reach me out **yhb66903710@gmail.com**
 <!--Intro end-->
 
- ![yoonhyunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonhyunbin&theme=ambient_gradient&show_icons=true)
+ ![yoonhyunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonhyunbin&theme=tokyonight&show_icons=true)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
